@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhamad Fatah , Welcome to my GitHub profile</h1>
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
+
 <h3 align="left"> Frontend Engineering works with HTML, CSS, and React Js to implement designs from UI/UX into websites. 
 
 I can collaborate with teammates in version control systems such as GitHub, manage responsiveness with CSS frameworks, consumes restful API, and use redux as global state management. 
