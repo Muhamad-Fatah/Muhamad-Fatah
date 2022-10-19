@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhamad Fatah , Welcome to my GitHub profile</h1>
-<h3 align="left"> Frontend Engineering works with HTML, CSS, and React Js to implement designs from UI/UX into websites. I can collaborate with teammates in version control systems such as GitHub, manage responsiveness with CSS frameworks, consumes restful API, and use redux as global state management. I have the motivation to work as a front-end developer because it has challenges to solve problems.</h3>
+<h3 align="left"> Frontend Engineering works with HTML, CSS, and React Js to implement designs from UI/UX into websites. 
+
+I can collaborate with teammates in version control systems such as GitHub, manage responsiveness with CSS frameworks, consumes restful API, and use redux as global state management. 
+
+I have the motivation to work as a front-end developer because it has challenges to solve problems.</h3>
 
 - 🌱 I’m currently learning **ReactJs,NextJs**
 
