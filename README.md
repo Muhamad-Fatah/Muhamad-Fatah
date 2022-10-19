@@ -12,7 +12,7 @@ I have the motivation to work as a front-end developer because it has challenges
 ---
 
 
-<h2 align="center">Connect with me:</h2>
+<p align="center"><b>Connect with me:</b></p>
 
 
 <p align='center'>
