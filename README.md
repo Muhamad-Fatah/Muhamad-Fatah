@@ -14,6 +14,7 @@ I have the motivation to work as a front-end developer because it has challenges
 
 <h2 align="center">Connect with me:</h2>
 
+
 <p align='center'>
   <a href="https://github.com/Muhamad-Fatah"><img src="https://img.shields.io/badge/github-%231DA1F2.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/muhamad-fatah-7b2659253/ "><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
